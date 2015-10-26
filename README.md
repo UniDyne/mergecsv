@@ -1,6 +1,6 @@
 MergeCSV
 ========
-*MergeCSV*: /Simple CSV Merge in JScript/
+__MergeCSV__: *Simple CSV Merge in JScript*
 
 ### What Is It? ###
 Have you ever had the need to merge a bunch of CSV files together only to notice
@@ -19,7 +19,7 @@ files. You can even name columns that don't exist in order to create placeholder
 for data you plan to add later.
 
 ### Limitations ###
-This is not a /real/ CSV parser, so it doesn't recognize quoted literals - particularly
+This is not a *real* CSV parser, so it doesn't recognize quoted literals - particularly
 quoted literals that contain a comma. For that reason, you should sanitize your data
 before using this. If you need to use commas in quoted literals, you will want to look
 at parsing the lines using RegEx instead of split(). I may add this in a future version.

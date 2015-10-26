@@ -28,3 +28,4 @@ at parsing the lines using RegEx instead of split(). I may add this in a future 
 * Support for commas in string literals
 * Special field for including the source filename in output
 * Special field for including source record number in output
+* Port to node-js
